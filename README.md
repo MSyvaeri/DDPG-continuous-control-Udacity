@@ -15,7 +15,7 @@ In this file, we are using an environment where we get the information from 20 a
 
 Needed Files:
 
-To use the code you have to download "Run.ipynb" and the files “ddpg_agent.py” and “model.py”. Additionally, you have to download the environment "Banana":
+To use the code you have to download "Run.ipynb" and the files “ddpg_agent.py” and “model.py”. Additionally, you have to download the environment "Reacher":
 
     Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip
     Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip
